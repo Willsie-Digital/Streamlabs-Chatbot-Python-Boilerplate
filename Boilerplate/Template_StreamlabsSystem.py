@@ -15,11 +15,11 @@ from Settings_Module import MySettings
 #---------------------------
 #   [Required] Script Information
 #---------------------------
-ScriptName = "Template Script"
+ScriptName = "Nyanagotchi"
 Website = "https://www.streamlabs.com"
-Description = "!test will post a message in chat"
-Creator = "AnkhHeart"
-Version = "1.0.0.0"
+Description = "Feed, Clean and Care for your Nyancat, for your users Nyancats will go up against others in casino style nyan cat racing with bets, weighted odds and point payouts based off the general health of all the Nyan Cats. Includes sweet sweet overlay."
+Creator = "Willsie Digital"
+Version = "0.0.0.1"
 
 #---------------------------
 #   Define Global Variables
